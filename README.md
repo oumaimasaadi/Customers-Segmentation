@@ -52,8 +52,8 @@ Office_Supllies_Sales: The sum of money did the customer spent on The Office sup
 
 
 
-The thirs Step is to use K-means Algorithm to find customers groups
-To choose the best number of clusters we used The Autocluster that helps us to find the number of clusters that gives us the highest silhouette
+The third Step was to use K-means Algorithm to find customers groups
+To choose the best number of clusters we used The Autocluster that helps us to find the number of clusters that gives the highest silhouette
 
 
 ![image](https://user-images.githubusercontent.com/56233947/139600929-40232e22-68fc-4e6a-bedd-eb162c6f0c5f.png)
