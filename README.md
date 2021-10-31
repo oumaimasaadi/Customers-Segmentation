@@ -51,6 +51,5 @@ The Quality of the algorithm was 40%
 
 
             
-![image](https://user-images.githubusercontent.com/56233947/139600991-bb3f2fbe-0b90-4bf5-9ee7-55af93d66c5c.png)
 
 
