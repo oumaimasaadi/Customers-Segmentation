@@ -25,13 +25,29 @@ Dataset after the feature extraction step
 
 
 Nbr_d'achats: How much products the customer bought.
+
+
 Total_Sales: The sum of money spent by the customer in our store.
+
+
 Récense: difference between The current date and the date of the customer's last order (This feature helps us to find which customers we lost and which are still buying our products)
+
+
 Tenure: difference between the dare of the customer's last order and the customer's first order
+
+
 Diversité_de_produit: Number of distinct product categories that the customer had ordered . 
+
+
 Nombre_de_visites: Number of customer's orders
+
+
 Furniture_Sales_sum: The sum of money did the customer spent on The furniture category products
+
+
 Technology_Sales_Sum: The sum of money did the customer spent on The Technology category products
+
+
 Office_Supllies_Sales: The sum of money did the customer spent on The Office supplies category products
 
 
