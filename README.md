@@ -1,6 +1,6 @@
 # Customers-Segmentation
 
-The goal of this project is to understand a store's dataset, do transformations and features engineering, use clustering algorithms then analyze the results.(using IBM SPSS Modeler)
+The goal of this project is to understand a store's dataset, do transformations and features engineering, use clustering algorithms (Using IBM SPSS Modeler) then analyze the results.
 
 
 First of all,I had to understand the dataset's columns so that I can find which important features I can extract from them. 
